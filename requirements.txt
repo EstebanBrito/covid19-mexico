@@ -1,0 +1,7 @@
+# TODO: Asegurarse de instalar librerías para Python 3
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
