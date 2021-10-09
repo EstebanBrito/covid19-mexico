@@ -1,4 +1,10 @@
-datasets
+datasets/*.csv
+datasets/*.xlsx
+datasets/*.pdf
+datasets/clean_data/*.csv
+datasets/clean_data/*.xlsx
+datasets/old_data/*.csv
+datasets/old_data/*xlsx
 env 
 venv
 imgs
