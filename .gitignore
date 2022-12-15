@@ -171,6 +171,7 @@ datasets/old_data/*xlsx
 env 
 venv
 imgs
+results/*
 notebooks/.ipynb_checkpoints
 notebooks/Apuntes.ipynb
 notebooks/*.png
